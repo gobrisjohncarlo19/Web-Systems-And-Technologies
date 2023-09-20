@@ -6,6 +6,11 @@ Activity 1
 ### Objective
 
 ### Member
+*John Carlo J. Gobris
+*Janice R. Docot
+*Rommel E. Bailon 
+*Camille G. Groyon
+*Nanci E. Correa
 
 ### Acknowledgement
 
