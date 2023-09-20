@@ -2,7 +2,7 @@
 ## Activity 1
 
 ### Introduction
-
+- Diri pa po tapos🥰😌😍😉😚😋
 ### Objective
 
 ### Member
