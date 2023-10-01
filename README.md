@@ -4,8 +4,8 @@
 This GitHub repository provide a central place to compile and store all of the activities that are being worked on by the team. This will make it easier for everyone to stay organized and on track, and it will also make it easier to share information and collaborate on activities.
 
 ## Accomplishments:
-Activity 1 >Different HTML tags
-Activity 2 >Deploying Activity 1 through the use of Github Pages
+- Activity 1 >Different HTML tags
+- Activity 2 >Deploying Activity 1 through the use of Github Pages
 
 ## Members
 - John Carlo J. Gobris
@@ -20,8 +20,9 @@ We would like to acknowledge the following for their contributions to this GitHu
 Mr. Anthony Gacis our dear Professor
 
 Tools:
-[GITHUB]
-[VISUAL STUDIO CODE](https://code.visualstudio.com/
+[GITHUB](https://github.com/)
+[VISUAL STUDIO CODE](https://code.visualstudio.com/)
+[README.SO](https://readme.so/)
 
 
 
