@@ -20,7 +20,7 @@ We would like to acknowledge the following for their contributions to this GitHu
 Mr. Anthony Gacis our dear Professor
 
 Tools:
-[GITHUB](![image](https://github.com/gobrisjohncarlo19/Web-Systems-And-Technologies/assets/100465648/829e3e33-dd96-419e-81fc-7d8ea3bc3c16)
+[GITHUB]
 [VISUAL STUDIO CODE](https://code.visualstudio.com/
 
 
