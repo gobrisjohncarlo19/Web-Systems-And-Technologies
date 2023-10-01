@@ -21,9 +21,9 @@ We would like to acknowledge the following for their contributions to this GitHu
 Mr. Anthony Gacis our dear Professor
 
 Tools:
--[GITHUB](https://github.com/)
--[VISUAL STUDIO CODE](https://code.visualstudio.com/)
--[README.SO](https://readme.so/)
+- [GITHUB](https://github.com/)
+- [VISUAL STUDIO CODE](https://code.visualstudio.com/)
+- [README.SO](https://readme.so/)
 
 
 
