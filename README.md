@@ -9,8 +9,8 @@ This GitHub repository provide a central place to compile and store all of the a
 - Activity 2 >Deploying Activity 1 through the use of Github Pages
 
 ## Members
-- 👨 John Carlo J. Gobris
-- 👧 Janice R. Docot
+ *👨 John Carlo J. Gobris
+* 👧 Janice R. Docot
 - 👨‍🦱 Rommel E. Bailon 
 - 👱‍♀️ Camille G. Groyon
 - 👦 Nanci E. Correa
