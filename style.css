@@ -401,3 +401,65 @@ div.f{
 .slide3{
   background: linear-gradient(454deg, #c7eb9d, #5d8947);
 }
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #032059;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.about {
+  margin-bottom: 30px;
+}
+
+.variables {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+.variable {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 18px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.variable:hover {
+  transform: translateY(-3px);
+}
+
+.variable:nth-child(odd) {
+  background-color: #404342;
+}
+
+.variable:nth-child(even) {
+  background-color: #157fb0;
+}
