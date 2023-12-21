@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Top 5 Best Choice Laptops</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="index.html">Go Back</a>
+  <nav>
+    <ul>
+      <li><a href="finals.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="pricing.html">Pricing</a></li>
+      <li><a href="features.html">Features</a></li>
+      <li><a href="contacts.html">Contacts</a></li>
+    </ul>
+  </nav>
+
+  <div class="content">
+    <h1>Top 5 Best Choice Laptops</h1>
+    <ol>
+      <li>
+        <h2>Huawei MateBook D 15</h2>
+        <img src="huawei.png" alt="Huawei MateBook D 15">
+      </li>
+      <li>
+        <h2>Asus Zenbook UX3402ZA-KM136WS</h2>
+        <img src="download.png" alt="Asus Zenbook UX3402ZA-KM136WS">
+      </li>
+      <li>
+        <h2>HP Envy x360</h2>
+        <img src="HP.png" alt="HP Envy x360">
+      </li>
+      <li>
+        <h2>Dell Inspiron 15.6</h2>
+        <img src="dell.png" alt="Dell Inspiron 15.6">
+      </li>
+      <li>
+        <h2>Macbook Pro 2022</h2>
+        <img src="apple-macbook-pro-13-inch-2022-m2.png" alt="Apple 2022 Macbook Pro">
+      </li>
+    </ol>
+
+  </div>
+
+<script>
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+        });
+      });
+    });
+  
+    document.querySelectorAll('.content li').forEach(item => {
+      item.addEventListener('click', function () {
+        const laptopName = this.querySelector('h2').innerText;
+        window.location.href = `features.html?laptop=${encodeURIComponent(laptopName)}`;
+      });
+    });
+  </script>
+  
+  <footer>
+    <p>&copy; 2023 Your Website</p>
+  </footer>
+</body>
+</html>
