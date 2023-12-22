@@ -8,6 +8,8 @@ This GitHub repository provide a central place to compile and store all of the a
 - Activity 1 >Different HTML tags
 - Activity 2 >Deploying Activity 1 through the use of Github Pages
 - Activity 3 >Different CSS Properties
+- Activity 4 >Displaying Javascript Valid  Variable Names
+- Final Project >Creating Static Website
 
 ## Members
 - 👨 John Carlo J. Gobris
